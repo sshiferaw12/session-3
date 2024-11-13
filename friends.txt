@@ -1,0 +1,14 @@
+Alice follows Bob
+Alice follows Charlie
+Bob follows David
+Charlie follows Alice
+David follows Eve
+Eve follows Frank
+Frank follows Grace
+Grace follows Henry
+Henry follows Irene
+Irene follows Alice
+Bob follows Grace
+Charlie follows Henry
+David follows Bob
+Eve follows Charlie
